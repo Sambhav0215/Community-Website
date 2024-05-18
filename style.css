@@ -1,0 +1,93 @@
+#tittle {
+    background-color: #CDE8E5;
+
+
+}
+.navbar-brand{
+color:rgb(169, 60, 60);  
+font-family: "Gajraj One", sans-serif;
+font-size: 1.2rem;
+}
+.nav-item{
+    font-family: "Montserrat", sans-serif;
+}
+
+.glim {
+    font-family: "Montserrat", sans-serif;
+    size: 3rem;
+    line-height:1.5; 
+    margin-left: 1%; 
+}
+.container-fluid {
+    padding: 3% 10%;
+}
+
+
+.body {
+    font-family: "Montserrat", sans-serif;
+    size: 3rem;
+    line-height:1.5;  
+}
+ #middle {
+    background-color: #EEF7FF; 
+    text-align: center;
+    
+    
+   
+
+}
+.navbar {
+    padding-bottom: 4.5rem;
+}
+.nav-item {
+    padding:0 18px;
+}
+.down-btn{
+    margin-top: 2%;
+    margin: auto 1%;
+}
+.mid-tittle{
+    margin-bottom: 7rem;
+    
+}
+.co {
+    padding: 5%;
+}
+.icon {
+    color:#7AB2B2;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #4D869C;
+}
+.Bot-tittle {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 2.5rem;
+    padding: 3% 20% 1%;
+}
+
+#bottom{
+    background-color: #7AB2B2;
+    text-align: center;
+
+}
+.bit{
+    
+    height: 10rem;
+    width: 10rem;
+}
+
+.card{
+    padding: 1% 5%;
+    border:0;
+    text-align: center;
+}
+
+@media (max-width:900px){
+  #tittle{
+    text-align: center;
+  }
+}
